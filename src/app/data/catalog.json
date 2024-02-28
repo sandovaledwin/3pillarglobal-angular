@@ -1,0 +1,527 @@
+[
+    {
+        "sku": "001",
+        "description": "Men's Casual Bomber Jacket, Casual Zip Up Windbreaker Jacket For Outdoor Activities",
+        "price": 299,
+        "sizes": [
+            {
+                "color": "black",
+                "sizes": [
+                    {
+                        "size": "s",
+                        "quantity": 30
+                    },
+                    {
+                        "size": "m",
+                        "quantity": 20
+                    },
+                    {
+                        "size": "l",
+                        "quantity": 40
+                    },
+                    {
+                        "size": "xl",
+                        "quantity": 10
+                    },
+                    {
+                        "size": "xxl",
+                        "quantity": 12
+                    },
+                    {
+                        "size": "xxxl",
+                        "quantity": 5
+                    }
+                ]
+            },
+            {
+                "color": "yellow",
+                "sizes": [
+                    {
+                        "size": "s",
+                        "quantity": 10
+                    },
+                    {
+                        "size": "m",
+                        "quantity": 12
+                    },
+                    {
+                        "size": "l",
+                        "quantity": 5
+                    }
+                ]
+            },
+            {
+                "color": "blue",
+                "sizes": [
+                    {
+                        "size": "s",
+                        "quantity": 5
+                    },
+                    {
+                        "size": "m",
+                        "quantity": 8
+                    },
+                    {
+                        "size": "l",
+                        "quantity": 10
+                    }
+                ]
+            }
+        ],
+        "colors": [
+            {
+                "color": "black",
+                "images": [
+                    {
+                        "position": "front-side",
+                        "img": "http://localhost:4200/assets/img/001/001-black-front-side.webp"
+                    },
+                    {   
+                        "position": "back-side",
+                        "img": "http://localhost:4200/assets/img/001/001-black-back-side.webp"
+                    }
+                ]
+            },
+            {
+                "color": "yellow",
+                "images": [
+                    {
+                        "position": "front-side",
+                        "img": "http://localhost:4200/assets/img/001/001-yellow-front-side.webp"
+                    },
+                    {
+                        "position": "back-side",
+                        "img": "http://localhost:4200/assets/img/001/001-yellow-back-side.webp"
+                    }
+                ]
+            },
+            {
+                "color": "blue",
+                "images": [
+                    {
+                        "position": "front-side",
+                        "img": "http://localhost:4200/assets/img/001/001-blue-front-side.webp"
+                    },
+                    {
+                        "position": "back-side",
+                        "img": "http://localhost:4200/assets/img/001/001-blue-back-side.webp"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "sku": "002",
+        "description": "Men's Loose Casual Long Sleeve Tops Striped Cuff Lightweight Jackets Autumn And Winter Comfortable Coats",
+        "price": 310,
+        "sizes": [
+            {
+                "color": "black",
+                "sizes": [
+                    {
+                        "size": "s",
+                        "quantity": 8
+                    },
+                    {
+                        "size": "m",
+                        "quantity": 14
+                    },
+                    {
+                        "size": "l",
+                        "quantity": 12
+                    }
+                ]
+            },
+            {
+                "color": "beige",
+                "sizes": [
+                    {
+                        "size": "s",
+                        "quantity": 3
+                    },
+                    {
+                        "size": "m",
+                        "quantity": 7
+                    },
+                    {
+                        "size": "l",
+                        "quantity": 10
+                    }
+                ]
+            }
+        ],
+        "colors": [
+            {
+                "color": "black",
+                "images": [
+                    {
+                        "position": "front-side",
+                        "img": "http://localhost:4200/assets/img/002/002-black-front-side.webp"
+                    },
+                    {
+                        "position": "back-side",
+                        "img": "http://localhost:4200/assets/img/002/002-black-back-side.webp"
+                    }
+                ]
+            },
+            {
+                "color": "beige",
+                "images": [
+                    {
+                        "position": "front-side",
+                        "img": "http://localhost:4200/assets/img/002/002-beige-front-side.webp"
+                    },
+                    {
+                        "position": "back-side",
+                        "img": "http://localhost:4200/assets/img/002/002-beige-back-side.webp"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "sku": "003",
+        "description": "Men's Lightweight Jackets By Activity, Casual Jacket With Zipper Pockets For Fitness Outdoor Activities",
+        "price": 290,
+        "sizes": [
+            {
+                "color": "green",
+                "sizes": [
+                    {
+                        "size": "s",
+                        "quantity": 24
+                    },
+                    {
+                        "size": "m",
+                        "quantity": 30
+                    },
+                    {
+                        "size": "l",
+                        "quantity": 12
+                    }
+                ]
+            },
+            {
+                "color": "black",
+                "sizes": [
+                    {
+                        "size": "s",
+                        "quantity": 15
+                    },
+                    {
+                        "size": "m",
+                        "quantity": 12
+                    },
+                    {
+                        "size": "l",
+                        "quantity": 17
+                    }
+                ]
+            }
+        ],
+        "colors": [
+            {
+                "color": "green",
+                "images": [
+                    {
+                        "position": "front-side",
+                        "img": "http://localhost:4200/assets/img/003/003-green-front-side.webp"
+                    },
+                    {
+                        "position": "back-side",
+                        "img": "http://localhost:4200/assets/img/003/003-green-back-side.webp"
+                    }
+                ]
+            },
+            {
+                "color": "black",
+                "images": [
+                    {
+                        "position": "front-side",
+                        "img": "http://localhost:4200/assets/img/003/003-black-front-side.webp"
+                    },
+                    {
+                        "position": "back-side",
+                        "img": "http://localhost:4200/assets/img/003/003-black-back-side.webp"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "sku": "004",
+        "description": "Ombre Men's Hooded Jacket Windbreaker Casual Long Sleeve Hoodies With Zipper Gym Sports Hooded Coat For Spring Fall",
+        "price": 320,
+        "sizes": [
+            {
+                "color": "blue",
+                "sizes": [
+                    {
+                        "size": "s",
+                        "quantity": 20
+                    },
+                    {
+                        "size": "m",
+                        "quantity": 10
+                    },
+                    {
+                        "size": "l",
+                        "quantity": 15
+                    }
+                ]
+            },
+            {
+                "color": "gray",
+                "sizes": [
+                    {
+                        "size": "s",
+                        "quantity": 30
+                    },
+                    {
+                        "size": "m",
+                        "quantity": 25
+                    },
+                    {
+                        "size": "l",
+                        "quantity": 10
+                    }
+                ]
+            }
+        ],
+        "colors": [
+            {
+                "color": "blue",
+                "images": [
+                    {
+                        "position": "front-side",
+                        "img": "http://localhost:4200/assets/img/004/004-bluelight-front-side.webp"
+                    },
+                    {
+                        "position": "back-side",
+                        "img": "http://localhost:4200/assets/img/004/004-bluelight-back-side.webp"
+                    }
+                ]
+            },
+            {
+                "color": "gray",
+                "images": [
+                    {
+                        "position": "front-side",
+                        "img": "http://localhost:4200/assets/img/004/004-gray-front-side.webp"
+                    },
+                    {
+                        "position": "back-side",
+                        "img": "http://localhost:4200/assets/img/004/004-gray-back-side.webp"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "sku": "005",
+        "description": "Men's Casual Zip Up Bomber Jacket, Trendy Windbreaker Jacket For Spring Fall",
+        "price": 280,
+        "sizes": [
+            {
+                "color": "gray",
+                "sizes": [
+                    {
+                        "size": "s",
+                        "quantity": 24
+                    },
+                    {
+                        "size": "m",
+                        "quantity": 18
+                    },
+                    {
+                        "size": "l",
+                        "quantity": 13
+                    }
+                ]
+            },
+            {
+                "color": "green",
+                "sizes": [
+                    {
+                        "size": "s",
+                        "quantity": 12
+                    },
+                    {
+                        "size": "m",
+                        "quantity": 20
+                    },
+                    {
+                        "size": "l",
+                        "quantity": 30
+                    }
+                ]
+            }
+        ],
+        "colors": [
+            {
+                "color": "gray",
+                "images": [
+                    {
+                        "position": "front-side",
+                        "img": "http://localhost:4200/assets/img/005/005-lightgray-front-side.webp"
+                    },
+                    {
+                        "position": "back-side",
+                        "img": "http://localhost:4200/assets/img/005/005-lightgray-back-side.webp"
+                    }
+                ]
+            },
+            {
+                "color": "green",
+                "images": [
+                    {
+                        "position": "front-side",
+                        "img": "http://localhost:4200/assets/img/005/005-green-front-side.webp"
+                    },
+                    {
+                        "position": "back-side",
+                        "img": "http://localhost:4200/assets/img/005/005-green-back-side.webp"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "sku": "006",
+        "description": "Men's Color Block Bomber Jacket, Casual Baseball Collar Jackets By Activity For Spring Fall",
+        "price": 355,
+        "sizes": [
+            {
+                "color": "blue",
+                "sizes": [
+                    {
+                        "size": "s",
+                        "quantity": 30
+                    },
+                    {
+                        "size": "m",
+                        "quantity": 23
+                    },
+                    {
+                        "size": "l",
+                        "quantity": 10
+                    }
+                ]
+            },
+            {
+                "color": "khaki",
+                "sizes": [
+                    {
+                        "size": "s",
+                        "quantity": 14
+                    },
+                    {
+                        "size": "m",
+                        "quantity": 21
+                    },
+                    {
+                        "size": "l",
+                        "quantity": 30
+                    }
+                ]
+            }
+        ],
+        "colors": [
+            {
+                "color": "blue",
+                "images": [
+                    {
+                        "position": "front-side",
+                        "img": "http://localhost:4200/assets/img/006/006-blue-front-side.webp"
+                    },
+                    {
+                        "position": "back-side",
+                        "img": "http://localhost:4200/assets/img/006/006-blue-back-side.webp"
+                    }
+                ]
+            },
+            {
+                "color": "khaki",
+                "images": [
+                    {
+                        "position": "front-side",
+                        "img": "http://localhost:4200/assets/img/006/006-khaki-front-side.webp"
+                    },
+                    {
+                        "position": "back-side",
+                        "img": "http://localhost:4200/assets/img/006/006-khaki-back-side.webp"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "sku": "007",
+        "description": "Men's Casual Letter Embroidery Zip Up Jacket, Chic Bomber Jacket With Pockets",
+        "price": 342,
+        "sizes": [
+            {
+                "color": "gray",
+                "sizes": [
+                    {
+                        "size": "s",
+                        "quantity": 30
+                    },
+                    {
+                        "size": "m",
+                        "quantity": 23
+                    },
+                    {
+                        "size": "l",
+                        "quantity": 10
+                    }
+                ]
+            },
+            {
+                "color": "red",
+                "sizes": [
+                    {
+                        "size": "s",
+                        "quantity": 14
+                    },
+                    {
+                        "size": "m",
+                        "quantity": 21
+                    },
+                    {
+                        "size": "l",
+                        "quantity": 30
+                    }
+                ]
+            }
+        ],
+        "colors": [
+            {
+                "color": "gray",
+                "images": [
+                    {
+                        "position": "front-side",
+                        "img": "http://localhost:4200/assets/img/007/007-gray-front-side.webp"
+                    },
+                    {
+                        "position": "back-side",
+                        "img": "http://localhost:4200/assets/img/007/007-gray-back-side.webp"
+                    }
+                ]
+            },
+            {
+                "color": "red",
+                "images": [
+                    {
+                        "position": "front-side",
+                        "img": "http://localhost:4200/assets/img/007/007-red-front-side.webp"
+                    },
+                    {
+                        "position": "back-side",
+                        "img": "http://localhost:4200/assets/img/007/007-red-back-side.webp"
+                    }
+                ]
+            }
+        ]
+    }
+]
